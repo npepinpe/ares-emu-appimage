@@ -69,10 +69,6 @@ jobs:
 
         - uses: actions/download-artifact@v5.0.0
           with:
-            name: AppImage-aarch64
-
-        - uses: actions/download-artifact@v5.0.0
-          with:
             name: version
   
         - name: Read version and Get date
