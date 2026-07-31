@@ -22,6 +22,7 @@ pacman -Syu --noconfirm \
 	libxss                 \
 	ninja                  \
 	openal                 \
+	patchelf               \
 	pipewire-audio         \
 	pkgconf                \
 	pulseaudio             \
